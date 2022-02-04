@@ -1,2 +1,2 @@
 # haverforderc.com
-Website for the Haverford Economics Research Club
+A website for the Haverford College Economics Research Club (ERC).

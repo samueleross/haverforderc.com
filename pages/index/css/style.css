@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #f7f7f7;
+}
+
+footer {
+  position: relative;
+  height: 220px;
+  width: 100%;
+}
+
